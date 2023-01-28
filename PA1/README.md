@@ -1,4 +1,5 @@
 ## Steps before running
+0) Use this drive [link](https://drive.google.com/drive/folders/162ql8iESDd_UQU2N99lAxXaf6XnzpWPz?usp=sharing) to get all the .py files mentioned below.
 
 1) If running from google colab, after mounting the drive, copy the path where the .py files are located (Namely: network, data, networkSmax, image should be in one folder). Paste this path replacing the existing path in the following areas:
     * Line 6 of main.py
