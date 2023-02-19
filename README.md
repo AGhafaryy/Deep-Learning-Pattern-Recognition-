@@ -1,5 +1,5 @@
 # Neural network and Patter Matching
-##### A project by Andrew and Jay
+##### A collection of Deep Learning projects by Andrew and Jay
 
 ## A collection of our work on our course CSE 251B about neural networks.
 
