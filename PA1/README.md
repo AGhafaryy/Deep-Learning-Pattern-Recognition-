@@ -33,3 +33,7 @@ Enter the number for the coresponing learning task you want to begin in the inpu
 ### How it runs
 The code will automatically load the dataset and begin training with the given hyperparameters and the choosen training model.
 It has early stopping mechanism built in, and after the completion of all folds and epochs it will plot an average loss graph and store it in the designated path.
+
+## Authors
+- [@Jay Jhaveri](https://github.com/JayJhaveri1906)
+- [@Andrew Ghafari](https://github.com/AGhafaryy)

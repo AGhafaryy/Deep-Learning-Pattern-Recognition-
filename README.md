@@ -8,3 +8,9 @@
 ### DISCLAIMER: If you plan to use or get inspired by this work, we highly recommend 
 
 1) PA1: Log Reg and Softmax on the MNSIT data
+
+
+
+## Authors
+- [@Jay Jhaveri](https://github.com/JayJhaveri1906)
+- [@Andrew Ghafari](https://github.com/AGhafaryy)
